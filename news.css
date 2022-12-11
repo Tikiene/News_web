@@ -1,0 +1,90 @@
+/* * {
+    margin: 0px;
+    padding: 0px;
+} */
+* {
+    font-size: 20px;
+}
+
+.d1 {
+    margin: auto;
+    width: 70%;
+    /* border: 3px solid red; */
+}
+
+.f_left1 {
+    /* border: 2px solid blue; */
+    float: left;
+    width:40%;
+    /* padding: 20px; */
+}
+
+.f_right1 {
+    width: 40%;
+    border: 3px ridge #363457;
+    float: right;
+    text-align: center;
+    margin-right: 50px;
+    padding: 10px;
+
+
+
+
+}
+
+figure {
+    /* border: 3px blue solid; */
+    width: 40%;
+    padding: 20px;
+}
+
+img {
+    width: 100%;
+}
+
+.fi_labor {
+    color: gray
+}
+
+.fi2_labor {
+    color: rgb(151, 149, 149);
+    font-size: 10px;
+}
+
+.f_left2 {
+    float: left;
+    width:40%;
+}
+
+.f_right2 {
+    float: right;
+    width: 40%;
+    border: 2px ridge #363457;
+    margin-right: 50px;
+
+}
+
+p {
+    clear: both;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: justify;
+    /* text-indent: 50px; */
+}
+
+h1 {
+    font-size: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+    /* text-shadow: 5px 5px 5px rgb(37, 37, 127); */
+}
+
+h2 {
+    font-size: 30px;
+}
+
+/* .float123 {
+    background-color: blueviolet;
+    padding: 20px;
+} */
